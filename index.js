@@ -19,7 +19,6 @@ client.on('message', message => {
   }
 });
 
-//616583219730710554
 
 client.login(process.env.token);
 
@@ -34,22 +33,3 @@ client.login(process.env.token);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     //hackdailyspam02082005snfubrcbeiucbeiucbeiucfhhcuhdfquh
