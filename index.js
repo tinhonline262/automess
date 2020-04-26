@@ -20,7 +20,7 @@ client.on('message', message => {
 });
 
 
-client.login(process.env."NzAzOTgyOTE0MDg5NjQ4MTY4.XqWi-Q.3Zs2cEoEjwsmCcsBbxBYh6mdMk0");
+client.login(process.env.token);
 
 
 
