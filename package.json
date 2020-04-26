@@ -1,12 +1,12 @@
 {
-  "name": "bot-of_trivia-vietnam-group",
+  "name": "bot-of-wibu",
   "version": "0.0.1",
-  "description": "bot make by Na",
+  "description": "bot make by Tinh",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "na",
+  "author": "Tinh",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1"
